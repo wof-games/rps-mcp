@@ -1,0 +1,15 @@
+# Build output
+dist/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.secrets
+.sops.yaml
+*.env.*.local
+
+# OS
+.DS_Store
